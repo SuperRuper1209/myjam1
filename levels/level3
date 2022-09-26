@@ -1,0 +1,9 @@
+max_instructions=8
+allowed_instructions=["forward", "turnRight", "turnLeft"]
+enemy1={"direction": [0, 1]}
+-
+#######
+#  E F#
+#     #
+#@    #
+#######

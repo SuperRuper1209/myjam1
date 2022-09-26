@@ -1,0 +1,10 @@
+max_instructions=7
+allowed_instructions=["forward", "turnLeft", "turnRight"]
+-
+######
+#### #
+#### #
+@    #
+#### #
+####F#
+######

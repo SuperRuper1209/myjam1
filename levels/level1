@@ -1,0 +1,6 @@
+max_instructions=3
+allowed_instructions=["forward"]
+-
+######
+#@  F#
+######

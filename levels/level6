@@ -1,0 +1,14 @@
+max_instructions=7
+allowed_instructions=["loop", "loopLimiter", "turnRight", "forward", "exitWallLoop"]
+-
+###########
+#@        #
+######### #
+#       # #
+# ##### # #
+# #  F# # #
+# # ### # #
+# #     # #
+# ####### #
+#         #
+###########

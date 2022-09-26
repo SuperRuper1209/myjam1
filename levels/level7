@@ -1,0 +1,19 @@
+max_instructions=7
+allowed_instructions=["loop", "loopLimiter", "forward", "exitAirLoop"]
+player_direction=90
+enemy1={"direction": [1, 0]}
+enemy2={"direction": [1, 0]}
+enemy3={"direction": [1, 0]}
+enemy4={"direction": [1, 0]}
+-
+#####
+#@  #
+#E  #
+#   #
+#E  #
+#   #
+#E  #
+#   #
+#E  #
+#F  #
+#####
